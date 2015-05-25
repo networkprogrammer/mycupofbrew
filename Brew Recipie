@@ -9,7 +9,7 @@ brew install curl
 brew install wget
 brew cask install anki
 brew cask install github
-brew cask install java6
+brew cask install caskroom/homebrew-versions/java6
 brew cask install onyx
 brew cask install transmission
 brew cask install atom
